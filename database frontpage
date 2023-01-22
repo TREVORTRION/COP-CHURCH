@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HOME</title>
+ <meta name="viewport" content="width=device-width initial-scale=1.0" charset="utf-8">
+	<!--Bootstrap-->
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="MaterialDesign/css/materialdesignicons.min.css">
+	<link rel="stylesheet" type="text/css" href="MaterialDesign/css/materialdesignicons.css">
+	<link rel="stylesheet" type="text/css" href="Home.css">
+  <link rel="icon" type="image/png" href="img/cop1.png" />
+</head>
+<body>	
+<div>
+	<nav >
+		<p class="top-page-title">Church Of Pentecost  | Nii Okaiman English Assembly</p>
+		
+		<a href="Home.html">
+		<div class="logo-image">
+			<img src="img/download1.jpg">
+		</div>
+		</a>
+		
+		<div id="container" class="a-links" >
+			<ul>
+				<li><a href="Home.html"><span class="mdi mdi-home"></span>   Home</a></li>
+				<li><a >Local Church</a>
+					<ul>
+							<li><a >Officers  <span class="mdi mdi-chevron-right"></span></a>
+								<ul>
+									<li><a href="#" class="a-links">Elders</a></li>
+									<li><a href="#">Deacons</a></li>
+									<li><a href="#">Deaconess</a></li>
+								</ul>
+							</li>
+							<li><a >Members  <span class="mdi mdi-chevron-right"></span></a>
+								<ul>
+									<li><a href="#"><span class="mdi mdi-human-male"></span> Men</a></li>
+									<li><a href="#"><span class="mdi mdi-human-female"></span> Women</a></li>
+									<li><a href="#"><span class="mdi mdi-human-child"></span> Children</a></li>
+								</ul>
+							</li>
+					</ul>
+				</li>
+				<li><a >Ministry</a>
+					<ul>
+						<li><a href="#">Youth</a></li>
+						<li><a href="#">PEMEM</a></li>
+						<li><a href="#">LADIES' WING</a></li>
+						<li><a href="#">EVANGELISM</a></li>
+						<li><a href="#">CHILDREN</a></li>
+					</ul>
+				</li>
+				<li><a >Gallery</a>
+					<ul>
+						<li><a href="#"><span class="mdi mdi-image"></span> Pictures</a></li>
+						<li><a href="#"><span class="mdi mdi-music-box"></span> Songs</a></li>
+						<li><a href="#"><span class="mdi mdi-video"></span> Videos</a></li>
+					</ul>
+				</li>
+				<li><a href="#">Sermons</a></li>	
+				<li><a >Welfare</a>
+					<ul>
+						<li><a href="#">Login</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</nav>
+</div>
+
+<div class="menu">
+	<nav>
+	<ul>
+		<li><a href="form.html"><span class="mdi mdi-account-plus"></span> Add new member</a></li>
+		<li><a href=""><span class="mdi mdi-account-edit"></span> Edit member</a></li>
+		<li><a href=""><span class="mdi mdi-account-multiple"></span>  List of Members</a></li>
+		<li><a href=""><span class="mdi mdi-account-multiple"></span>  List of Officers</a></li>
+		<li><a href=""><span class="mdi mdi-account-multiple"></span>  List of Women</a></li>
+		<li><a href=""><span class="mdi mdi-account-multiple"></span>  List of Men</a></li>
+	</ul>
+	</nav>
+</div>
+
+<div class="footer-section">
+	<div class="footer-contact">
+			<nav class="info-links">
+				<ul>
+					<li><a href="#">About Us</a></li>
+					<li><a href="#">Contact Us</a></li>
+					<li><a href="privacy-policy.html">Privacy And Policy</a></li>
+					<li><a href="terms-conditions.html">Terms And Conditions</a></li>
+				</ul>
+		    </nav>
+	</div>
+	<div class="footer-copyright">
+	   	<p class="copyright-notice">Copyright &copy; 2019. TrevorTech Technologies.  All Rights Reserved.</p>
+	</div>
+</div>
+
+</body>
+
+</html>
